@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipse.emf.cdo.server.db;singleton:=true
-Bundle-Version: 4.3.1.qualifier
+Bundle-Version: 4.3.1.v20151012-0604
 Bundle-Name: %pluginName
 Bundle-Vendor: %providerName
 Bundle-Localization: plugin

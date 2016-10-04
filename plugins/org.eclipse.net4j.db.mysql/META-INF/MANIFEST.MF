@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipse.net4j.db.mysql;singleton:=true
-Bundle-Version: 4.2.200.qualifier
+Bundle-Version: 4.2.300.v20160301-1326
 Bundle-Name: %pluginName
 Bundle-Vendor: %providerName
 Bundle-Localization: plugin
